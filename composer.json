@@ -1,15 +1,20 @@
 {
-    "name": "/",
-    "description": "",
+    "name": "baptiste-dulac/message-business-sdk",
+    "description": "REST API allowing you to interact with your message business account.",
     "keywords": [
-        "swagger",
+        "message",
+		"business",
         "php",
         "sdk",
         "api"
     ],
-    "homepage": "http://swagger.io",
+    "homepage": "https://github.com/baptiste-dulac/message-business-sdk",
     "license": "proprietary",
     "authors": [
+		{
+            "name": "Baptiste Dulac",
+            "homepage": "https://baptistedulac.me"
+        },
         {
             "name": "Swagger and contributors",
             "homepage": "https://github.com/swagger-api/swagger-codegen"
